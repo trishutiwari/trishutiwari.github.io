@@ -8,29 +8,24 @@
   </head>
   <body>
    <img src="projecthead.jpg"/>
-   <table>
+   <table align="center">
 	   <thead>
-		   <th><h3><strong>Humanities and Social Science essays</strong></h3></th>
-		   <th><h3><strong>Math and Science Projects</strong></h3></th>
-		   <th><h3><strong>Computer Science Projects</strong></h3>
+		   <tr>
+		     <th><h3><strong>Humanities and Social Science essays</strong></h3></th>
+		     <th><h3><strong>Math and Science Projects</strong></h3></th>
+		     <th><h3><strong>Computer Science Projects</strong></h3></th>
+	           </tr>   
 	   </thead>
 	   <tbody>
 		<tr>
-			<td><div class="col" style="margin-left: 10px; margin-right: 630px">
-     			    <a herf="Corruption (Dec 1) essay">Which corrupts more, power or powerlessness?</a>
-			    </div>
-			</td>
-			<td><div class="col" style="margin-left: 320px; margin-right: 320px">
-			    </div>
-			</td>
-			<td><div class="col" style="margin-left: 630px; margin-right: 10px">
-			    </div>
-			</td>
+		  <td><a herf="Corruption (Dec 1) essay">Which corrupts more, power or powerlessness?</a></td>
+		  <td></td>
+		  <td></td>
 		</tr>
 	</tbody>
    <style>
-    .col {
-          width: 300px;
+    td {
+          width: 33%;
 	  height: 400px;
 	  background-color: grey;
 	  border-radius: 5px;
@@ -39,7 +34,19 @@
           font-family: impact, sans-serif;
           padding: 2px; 
           float: right;
+	  border: 1px solid black;
 	  }
+    th {
+          width: 33%;
+	  background-color: grey;
+	  border-radius: 5px;
+          border:5px solid black;
+          text-align: center;
+          font-family: impact, sans-serif;
+          padding: 2px; 
+          float: right;
+	  border: 1px solid black;
+	  }	  
      img {
 	  margin-left: auto;
           margin-right: auto; 
