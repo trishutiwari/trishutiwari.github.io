@@ -8,16 +8,26 @@
   </head>
   <body>
    <img src="projecthead.jpg"/>
-   <div class="col" style="margin-left: 10px; margin-right: 630px">
-    <h3>Humanities and Social Science essays</h3>
-     <a herf="Corruption (Dec 1) essay">Which corrupts more, power or powerlessness?</a>
-   </div>
-   <div class="col" style="margin-left: 320px; margin-right: 320px">
-    <h3>Math and Science Projects</h3>
-   </div>
-   <div class="col" style="margin-left: 630px; margin-right: 10px">
-    <h3>Computer Science Projects</h3>
-   </div>
+   <table>
+	   <thead>
+		   <th><h3><strong>Humanities and Social Science essays</strong></h3></th>
+		   <th><h3><strong>Math and Science Projects</strong></h3></th>
+		   <th><h3><strong>Computer Science Projects</strong></h3>
+	   </thead>
+	   <tbody>
+		<tr>
+			<td><div class="col" style="margin-left: 10px; margin-right: 630px">
+     			    <a herf="Corruption (Dec 1) essay">Which corrupts more, power or powerlessness?</a>
+			    </div>
+			</td>
+			<td><div class="col" style="margin-left: 320px; margin-right: 320px">
+			    </div>
+			</td>
+			<td><div class="col" style="margin-left: 630px; margin-right: 10px">
+			    </div>
+			</td>
+		</tr>
+	</tbody>
    <style>
     .col {
           width: 300px;
