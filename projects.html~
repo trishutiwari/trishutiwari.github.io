@@ -12,7 +12,6 @@
      </style>  
    </head>
   <body>
-  <div>
     <table id="header">
       <tr>
        <td class="headerrow"><img src="projecthead.jpg"/></td>
@@ -20,7 +19,6 @@
        <td class="headerrow"><img src="projecthead3.jpg"/></td>
       </tr>
     </table>
-  </div>
   <table align="center">
 	   <tbody>
 		<tr>
@@ -69,15 +67,7 @@
 	  width: 33%;
 	  height: 400px;
           text-align: center;
-        }
-	  
-     div > img {
-	  margin-left: auto;
-          margin-right: auto; 
-          display: block; 
-          width: 40%; 
-          height: 200px;
-         }
+        }	  
      #id {
           background-color: #4A6E6E;
 	  width: 100%;
