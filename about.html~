@@ -22,8 +22,8 @@
 			p {
 				font-size: 1.125em;
 			}
-			p ul li {
-				font-size: 1.125em;
+			li {
+			    font-size: 1.125em;
 			}
 			h2 {
 			    font-size: 1.375em;
