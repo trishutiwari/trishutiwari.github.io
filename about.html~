@@ -28,6 +28,12 @@
 				font-family: cursive;
 				color: white; 	
 			}
+			p ul li {
+				text-align: center;
+				font-size: 1.125em;
+				font-family: cursive;
+				color: white;
+			}
 			h2 {
 				text-align: center;
 				font-size: 1.375em;
@@ -57,9 +63,10 @@
 	        		}
 			.content {
 				background-color: #e0e0d1;
-				height: 50px;
-				width: 100px;
+				width: 500px;
 				color: white;
+				margin-left: auto;
+				margin-right: auto;
 				}
 			#id {
 				height: 50px;
@@ -71,7 +78,7 @@
 				border-radius: 5px; 
 				margin-left: auto;
 			        margin-right: auto;	
-				text-align: center
+				text-align: center;
 		</style>
     		<nav class="navbar navbar-inverse navbar-fixed-top">
       			<div class="container">
