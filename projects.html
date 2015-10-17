@@ -12,15 +12,13 @@
      </style>  
    </head>
   <body>
-  <div>
-    <table>
+    <table id="header">
       <tr>
-       <td><img src="projecthead.jpg"/></td>
-       <td><img src="projecthead2.jpg"/></td>
-       <td><img src="projecthead3.jpg"/></td>
+       <td class="headerrow"><img src="projecthead.jpg"/></td>
+       <td class="headerrow"><img src="projecthead2.jpg"/></td>
+       <td class="headerrow"><img src="projecthead3.jpg"/></td>
       </tr>
     </table>
-  </div>
   <table align="center">
 	   <tbody>
 		<tr>
@@ -57,27 +55,19 @@
           float: right;
 	  border: 10px solid black;
 	  } 
-     div table {
-	  height: 200px;
-	  width: 100%;
-          }
-     div table tr td {
-	              height: 100%;
-		      width: 33.33%;
+     #header {
+	     height: 200px;
+	     width: 100%;
+             }
+     .headerrow {
+                 height: 100%;
+         	 width: 33.33%;
                       }
      td {
 	  width: 33%;
 	  height: 400px;
           text-align: center;
-        }
-	  
-     div > img {
-	  margin-left: auto;
-          margin-right: auto; 
-          display: block; 
-          width: 40%; 
-          height: 200px;
-         }
+        }	  
      #id {
           background-color: #4A6E6E;
 	  width: 100%;
