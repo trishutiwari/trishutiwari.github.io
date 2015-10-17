@@ -37,6 +37,9 @@
 		</tr>
 	</tbody>
    <style>
+    body {
+	  background-image: url("background.jpg")
+	  }
     .col {
           width: 80%;
 	  height: 300px;
