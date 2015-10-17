@@ -56,7 +56,7 @@
           float: right;
           } 
      #header {
-	     height: 200px;
+	     height: 10em;
 	     width: 100%;
              }
      .headerrow {
