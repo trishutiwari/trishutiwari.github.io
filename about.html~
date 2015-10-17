@@ -62,7 +62,7 @@
 	        		color: purple;
 	        		}
 			.content {
-				background-color: #e0e0d1;
+				background-color: black;
 				width: 500px;
 				color: white;
 				margin-left: auto;
