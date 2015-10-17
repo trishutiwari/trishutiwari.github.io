@@ -43,12 +43,32 @@
 			a {
 				text-decoration: none;
 			}
+			a:hover {
+	      			text-weight: bold;
+          			}
+     			a:link {
+	     			text-decoration: none;
+	                       }
+     			a:visited { 
+	        		color: purple;
+	        		}
 			.content {
-				background-color: black;
+				background-color: #e0e0d1;
 				height: 50px;
 				width: 100px;
 				color: white;
 				}
+			#id {
+				height: 50px;
+			        width: 120px;
+			       	border-color: white; 
+				background-color: grey;
+			       	border-style: solid; 
+				border-width: 10px; 
+				border-radius: 5px; 
+				margin-left: auto;
+			        margin-right: auto;	
+				text-align: center
 		</style>
     		<nav class="navbar navbar-inverse navbar-fixed-top">
       			<div class="container">
@@ -94,8 +114,9 @@
 		       </ul>
 		     </strong></p>
 		</div>
-		<!--<div style="height: 50px; width: 120px; border-color: white; background-color: grey; border-style: solid; border-width: 10px; border-radius: 5px; margin: auto; text-align: center"}
-			<a href="trtiwari@bu.edu">Send me an email!</a>-->
+		<div id="footer"}
+			<h2>Contact info:</h2>
+			<a href="trtiwari@bu.edu">Send me an email!</a>
 		</div>   
 	</body>
 </html>
