@@ -82,6 +82,11 @@
      a:visited { 
 	        color: purple;
 	        }
+     img {
+	  display: block;
+	  height: 100%;
+	  width: 100%;
+         }
    </style>
    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
