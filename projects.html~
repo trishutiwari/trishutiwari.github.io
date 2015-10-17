@@ -87,6 +87,15 @@
 	  height: 100%;
 	  width: 100%;
          }
+     #footer {
+	      background-color: black;
+	      color: white;
+	      border: 2px solid black;
+	      width: 100%;
+	      font-family: times new roman, serif;
+	      font-size: 1.125em;
+	      text-align: center;
+	      }
    </style>
    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
@@ -107,4 +116,8 @@
           </ul>
         </div><!--/.nav-collapse -->
       </div>
+      <div id="footer"}
+	<h2>Contact info:</h2>
+	<a href="trtiwari@bu.edu">Send me an email!</a>
+      </div> 
  </html>
