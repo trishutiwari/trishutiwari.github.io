@@ -29,9 +29,6 @@
 
   <body>
     <style>
-        body {
-	  background-image: url("background.jpg")
-	  }
 	img.displayed {
     		display: block;
     		margin-left: auto;
