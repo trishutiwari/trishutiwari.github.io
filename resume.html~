@@ -8,7 +8,7 @@
   </head>
   <body>
   <div id="education">
-   <h2><strong>Education</strong></h2>
+   <h3><strong>Education</strong></h3>
    <ul>
     <li>Completed 11th and 12th grade at American School of Paris (ASP).</li> 
     <li>Completed 9th and 10th grade in Kendriya Vidyalaya D.R.D.O (KV), in Bangalore, India.</li>
@@ -20,7 +20,7 @@
    </ul>
   </div>
   <div id="academicHonors">
-   <h2><strong>Academic Honors</strong></h2>
+   <h3><strong>Academic Honors</strong></h3>
    <ul>
     <li>Graduated as the valedictorian from ASP (2015).</li>
     <li>Received government award for highest possible CGPA of 10.0 in 9th and 10th grade.</li>
@@ -30,21 +30,21 @@
    </ul> 
   </div>
   <div id="currentProjects">
-   <h2><strong>Current Projects</strong></h2>
+   <h3><strong>Current Projects</strong></h3>
    <ul>
     <li>Member of Global App Initiative, a club that makes apps for non-profit organizations. Leader of the android development team. Currently making an app to help members of Freedom House (an organization that aids disadvantaged students in college applications) to organize their college applications. (Open source project on Git Hub: <a href="https://github.com/trishutiwari/NewFreedomHouse">click here to learn more</a>)</li>
     <li>Creating this website</li>
    </ul>
   </div>
   <div id="skills">
-   <h2><strong>Skills</strong></h2>
+   <h3><strong>Skills</strong></h3>
    <ul>
     <li>Languages: Have considerable experience with Python, HTML and CSS. Have some experience with Java, Ruby and SQL.</li>
     <li>Have experience with android app development.</li>
    </ul>	   
   </div>
   <div id="extracurriculars">
-   <h2><strong>Extracurriculars at ASP and KV</strong></h2>
+   <h3><strong>Extracurriculars at ASP and KV</strong></h3>
    <ul>
     <li>Initiated and lead the Peer Tutoring group, tutoring in AP and IB Math, Physics, Chemistry, and SAT IIs. (ASP 2014-15)</li>
     <li>Designed and programmed a robot for the First Tech Challenge Robotics competition (ASP 2015).</li>
@@ -54,14 +54,14 @@
     <li>Stood 2nd twice in the annual city level social science debate competition. (KV 2011 and 12)</li>
     <li>1st and 2nd positions in school-level extempore competitions. (KV 2011 and 12)</li>
     <li>1st and 2nd place in inter-school art competition. (KV 2011 and 12)</li>
-    <li>Got nationally recognized in the NCSC (National Children’s Science Congress), an annual science project competition held in India. (KV 2012)</li>
+    <li>Got nationally recognized in the NCSC (National Children's Science Congress), an annual science project competition held in India. (KV 2012)</li>
     <li>Member of school shotput team. Won 1st and 2nd position in inter-school shot-put events (KV 2011 and 12)</li>
     <li>Played the Keyboard at various inaugural and welcoming ceremonies (KV 2011 and 12)</li>
    </ul>
   </div>
   <div id="footer">
     <h3>Contact info:</h3>
-    <a href="trtiwari@bu.edu">Send me an email!</a>
+    <h4>trtiwari@bu.edu"</h4>
   </div>
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <div class="container">
@@ -87,6 +87,9 @@
    <style>
     body {
      background-image: url("background.jpg");
+    }
+    #education {
+    padding-top: 50px;
     }
     body > div {
      background-color: white;
