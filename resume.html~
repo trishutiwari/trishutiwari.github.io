@@ -8,7 +8,7 @@
   </head>
   <body>
   <div id="education">
-   <h1><strong>Education</strong></h1>
+   <h2><strong>Education</strong></h2>
    <ul>
     <li>Completed 11th and 12th grade at American School of Paris (ASP).</li> 
     <li>Completed 9th and 10th grade in Kendriya Vidyalaya D.R.D.O (KV), in Bangalore, India.</li>
@@ -20,7 +20,7 @@
    </ul>
   </div>
   <div id="academicHonors">
-   <h1><strong>Academic Honors</strong></h1>
+   <h2><strong>Academic Honors</strong></h2>
    <ul>
     <li>Graduated as the valedictorian from ASP (2015).</li>
     <li>Received government award for highest possible CGPA of 10.0 in 9th and 10th grade.</li>
@@ -30,14 +30,14 @@
    </ul> 
   </div>
   <div id="currentProjects">
-   <h1><strong>Current Projects</strong></h1>
+   <h2><strong>Current Projects</strong></h2>
    <ul>
     <li>Member of Global App Initiative, a club that makes apps for non-profit organizations. Leader of the android development team. Currently making an app to help members of Freedom House (an organization that aids disadvantaged students in college applications) to organize their college applications. (Open source project on Git Hub: <a href="https://github.com/trishutiwari/NewFreedomHouse">click here to learn more</a>)</li>
     <li>Creating this website</li>
    </ul>
   </div>
   <div id="skills">
-   <h1><strong>Skills</strong></h1>
+   <h2><strong>Skills</strong></h2>
    <ul>
     <li>Languages: Have considerable experience with Python, HTML and CSS. Have some experience with Java, Ruby and SQL.</li>
     <li>Have experience with android app development.</li>
@@ -60,7 +60,7 @@
    </ul>
   </div>
   <div id="footer">
-    <h2>Contact info:</h2>
+    <h3>Contact info:</h3>
     <a href="trtiwari@bu.edu">Send me an email!</a>
   </div>
    <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -83,7 +83,7 @@
         </ul>
        </div><!--/.nav-collapse -->
       </div>
-      </nav>
+     </nav>
    <style>
     body {
      background-image: url("background.jpg");
@@ -118,6 +118,8 @@
      font-family: times, serif;
      font-size: 1.125em;
      text-align: center;
+     margin-left: 0px;
+     margin-right: 0px;
      }
    </style>
   </body>
