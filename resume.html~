@@ -9,7 +9,7 @@
   <body>
   <div id="education">
    <h1><strong>Education</strong></h1>
-   <ul>i
+   <ul>
     <li>Completed 11th and 12th grade at American School of Paris (ASP).</li> 
     <li>Completed 9th and 10th grade in Kendriya Vidyalaya D.R.D.O (KV), in Bangalore, India.</li>
     <li>Obtained 41/42 subject points in the IB (HL Physics, Math and Chemistry. SL English, French, and Economics).</li>
@@ -37,7 +37,7 @@
    </ul>
   </div>
   <div id="skills">
-   <h1><strong>Skills<strong></h1>
+   <h1><strong>Skills</strong></h1>
    <ul>
     <li>Languages: Have considerable experience with Python, HTML and CSS. Have some experience with Java, Ruby and SQL.</li>
     <li>Have experience with android app development.</li>
@@ -62,7 +62,7 @@
   <div id="footer">
     <h2>Contact info:</h2>
     <a href="trtiwari@bu.edu">Send me an email!</a>
-   </div>
+  </div>
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <div class="container">
        <div class="navbar-header">
@@ -83,6 +83,7 @@
         </ul>
        </div><!--/.nav-collapse -->
       </div>
+      </nav>
    <style>
     body {
      background-image: url("background.jpg");
@@ -108,7 +109,7 @@
       }
     a:visited { 
      color: purple;
-      }
+    }
     #footer {
      background-color: black;
      color: white;
