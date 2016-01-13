@@ -67,9 +67,6 @@
       width: 40%;
       height: 400px;
       text-align: center;
-     }
-     table {
-     margin-right: 10%;
      }     
      a:hover {
       text-weight: bold;
