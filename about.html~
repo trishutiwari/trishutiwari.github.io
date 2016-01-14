@@ -65,6 +65,10 @@
     font-family: times, serif;
     font-size: 1.125em;
     text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+    position: relative;
+    margin-bottom: -50px;
    }
    td {
     width: 33.33%;

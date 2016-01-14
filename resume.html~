@@ -99,8 +99,6 @@
     }
     body > div {
      background-color: white;
-     border-top: 2px solid black;
-     border-bottom: 2px solid black;
      border-left: 20px solid black;     
      border-right: 20px solid black;     
      display: block;
