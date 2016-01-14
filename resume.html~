@@ -99,8 +99,8 @@
     }
     #education, #academicHonors, #currentProjects, #skills, #extracurriculars {
      background-color: #e6e6e6;
-     border-left: 20px solid #222;     
-     border-right: 20px solid #222;     
+     border-left: 1px solid #222;     
+     border-right: 1px solid #222;     
      display: block;
      padding: 5px;
      text-align: center;
