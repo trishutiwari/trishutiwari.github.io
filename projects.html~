@@ -37,8 +37,8 @@
     </tbody>
    </table>
    <div id="footer">
-    <h2>Contact info:</h2>
-    <h4>trtiwari@bu.edu"</h4>
+    <h2 id="contact">Contact info:</h2>
+    <h4 id="email">trtiwari@bu.edu</h4>
    </div>
    <style>
     body {
@@ -92,6 +92,9 @@
       font-family: times, serif;
       font-size: 1.125em;
       text-align: center;
+     }
+     #contact, #email {
+      margin: 0px;
      }
    </style>
    <nav class="navbar navbar-inverse navbar-fixed-top">

@@ -70,6 +70,9 @@
     width: 33.33%;
     height: 20em;
    }
+   #contact, #email {
+    margin: 0px;
+   }
   </style>
   <nav class="navbar navbar-inverse navbar-fixed-top">
    <div class="container">
@@ -87,6 +90,7 @@
       <li class="active"><a href="#">Home</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="projects.html">Projects</a></li>
+      <li><a href="resume.html">Resume</a></li>
      </ul>
     </div><!--/.nav-collapse -->
    </div>
@@ -118,8 +122,8 @@ I also know HTML and CSS, and this website is my first project in web-developmen
     </p>
   </div>
   <div id="footer">
-   <h2>Contact info:</h2>
-   <h4>trtiwari@bu.edu"</h4>
+   <h3 id="contact">Contact info:</h3>
+   <h4 id="email">trtiwari@bu.edu</h4>
   </div>   
  </body>
 </html>
