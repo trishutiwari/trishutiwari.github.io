@@ -47,9 +47,10 @@
     color: purple;
    }
    .content {
-    padding: 5px;   
+    padding-left: 15px;
+    padding-right: 15px;   
     text-align: center;
-    background-color: #e6e6e6;
+    background-color: white;
     width: 700px;
     border-left: 1px solid #222;
     border-right: 1px solid #222;
@@ -61,7 +62,8 @@
    #footer {
     background-color: #222;
     color: white;
-    border: 2px solid #222;
+    border: 10px solid #222;
+    border-radius: 10px;
     width: 100%;
     font-family: times, serif;
     font-size: 1.125em;
