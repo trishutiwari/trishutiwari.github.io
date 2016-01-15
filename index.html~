@@ -38,14 +38,12 @@
     		margin-right: auto; 
 	}
 	p {
-	background-color: #222;
-	color: whitesmoke;
-	opacity: 0.8;
+	color: white;
+	font-family: arial; 
 	}
 	h1 {
-	background-color: #222;
-	color: whitesmoke;
-	opacity: 0.8;
+	font-family: arial;
+	color: white;
 	}
     </style>
     <nav class="navbar navbar-inverse navbar-fixed-top">
