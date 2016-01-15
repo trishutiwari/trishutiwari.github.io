@@ -30,12 +30,15 @@
   <body>
     <style>
         body {
-	  background-image: url("background.jpg")
+	  background-image: url("mainBackground.jpg")
 	  }
 	img.displayed {
     		display: block;
     		margin-left: auto;
     		margin-right: auto; 
+	}
+	nav {
+	opacity: 0.7;
 	}
     </style>
     <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -65,7 +68,7 @@
        <div class="starter-template">
 	       <h1>Welcome to Trishita's web page!</h1>
 	       <!-- Put your picture in the directory -->
-      	<img src="20150617_152240.jpg" class="thumbnail displayed" height="400px" align="middle"> 
+      	<img src="myImage.jpg" class="thumbnail displayed" height="400px" align="middle"> 
         <p class="lead">Hi! Welcome to my school webpage, you can find projects from courses on this page.</p>
 
   <!--<div class="list-group center-block" style="width: 250px;">
