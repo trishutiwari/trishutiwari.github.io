@@ -7,6 +7,13 @@
    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   </head>
   <body>
+  <table id="header">
+     <tr>
+      <td class="headerrow"><img src="projecthead.jpg"/></td>
+      <td class="headerrow"><img src="projecthead2.jpg"/></td>
+      <td class="headerrow"><img src="projecthead3.jpg"/></td>
+     </tr>
+  </table>
   <div id="education">
    <h3><strong>Education</strong></h3>
    <ul>
@@ -110,6 +117,23 @@
      font-family: times, serif;
      color: #b5b5b5;
      border-radius: 10px; 
+    }
+    #header {
+      height: 20em;
+      width: 100%;
+     }
+    .headerrow {
+     height: 100%;
+     width: 33.33%;
+     padding-top: 60px;
+     padding-left:20px;
+     padding-right: 20px;
+    }
+    img {
+    width: 100%;
+    height: 20em;
+    border-radius: 100%;
+    opacity: 0.7;
     }
     li {
     font-weight: bold;
