@@ -114,11 +114,11 @@
     li {
     font-weight: bold;
     }
-    a:hover {
-     font-weight: bold;
-      }
     a:link {
      text-decoration: none;
+      }
+    a:hover {
+     font-weight: bold;
       }
     a:visited { 
      color: purple;
