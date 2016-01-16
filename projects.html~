@@ -19,7 +19,7 @@
       <td class="headerrow"><img src="projecthead3.jpg"/></td>
      </tr>
    </table>-->
-   <table align="center">
+   <table id="contentTable" align="center">
     <tbody>
      <tr>
       <td>
@@ -42,24 +42,26 @@
    </div>
    <style>
     body {
-     background-image: url("projectImage.jpg")
+     background-image: url("projectImage.jpg");
+     padding-top: 100px;
     }
-    /*.col {
+    .col {
      width: 80%;
      height: 300px;
-     background-color: #e6e6e6;
-     border-left: 1px solid #222;
-     border-right: 1px solid #222;
+     background-color: rgba(228, 197, 149, 0.56);
      text-align: center;
-     font-family: times, serif;
+     font-weight: bold;
+     font-family: sans-serif;
      padding: 2px; 
      float: right;
-      }*/ 
-     #header {
+     color: white;
+     border-radius: 10px;
+      } 
+     /*#header {
       height: 10em;
       width: 100%;
      }
-     ./*headerrow {
+     .headerrow {
       height: 100%;
       width: 33.33%;
       padding: 0px;
@@ -69,15 +71,19 @@
       height: 400px;
       padding-right: 100px;
       text-align: center;
-     }     
-     a:hover {
-      text-weight: bold;
-       }
+     }
+     #contentTable {
+     margin-bottom: 100px;
+     }
      a:link {
       text-decoration: none;
+       }     
+     a:hover {
+      font-weight: bold;
        }
      a:visited { 
       color: purple;
+      font-weight: bold;
        }
      img {
       display: block;
