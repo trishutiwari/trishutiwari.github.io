@@ -64,7 +64,6 @@
      .headerrow {
       height: 100%;
       width: 33.33%;
-      padding: 0px;
      }*/
      td {
       width: 40%;
