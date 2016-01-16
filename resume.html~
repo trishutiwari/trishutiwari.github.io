@@ -23,8 +23,8 @@
    <h3><strong>Academic Honors</strong></h3>
    <ul>
     <li>Graduated as the valedictorian from ASP (2015).</li>
-    <li>Received government award for highest possible CGPA of 10.0 in 9th and 10th grade.</li>
-    <li>Trustee Scholar at Boston University.</li>
+    <li>Received government award for highest possible CGPA of 10.0 in 9th and 10th grade.(KV 2011 and 12)</li>
+    <li><a href="http://www.bu.edu/admissions/apply/costs-aid-scholarships/scholarships/trustee/program/">Trustee Scholar</a> at Boston University.</li>
     <li>Member of National Honor Society (ASP 2014-15).</li> 
     <li>Inducted in the Cum Laude society (ASP 2014).</li>
    </ul> 
@@ -108,7 +108,7 @@
      margin-right: 15%;
      width: 70%;
      font-family: times, serif;
-     color: white;
+     color: #b5b5b5;
      border-radius: 10px; 
     }
     li {

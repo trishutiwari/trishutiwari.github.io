@@ -12,13 +12,13 @@
     </style>  
   </head>
   <body>
-   <table id="header">
+   <!--<table id="header">
      <tr>
       <td class="headerrow"><img src="projecthead.jpg"/></td>
       <td class="headerrow"><img src="projecthead2.jpg"/></td>
       <td class="headerrow"><img src="projecthead3.jpg"/></td>
      </tr>
-   </table>
+   </table>-->
    <table align="center">
     <tbody>
      <tr>
@@ -42,9 +42,9 @@
    </div>
    <style>
     body {
-     background-image: url("background.jpg")
+     background-image: url("projectImage.jpg")
     }
-    .col {
+    /*.col {
      width: 80%;
      height: 300px;
      background-color: #e6e6e6;
@@ -54,16 +54,16 @@
      font-family: times, serif;
      padding: 2px; 
      float: right;
-      } 
+      }*/ 
      #header {
       height: 10em;
       width: 100%;
      }
-     .headerrow {
+     ./*headerrow {
       height: 100%;
       width: 33.33%;
       padding: 0px;
-     }
+     }*/
      td {
       width: 40%;
       height: 400px;
