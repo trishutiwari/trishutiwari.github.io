@@ -55,7 +55,7 @@
      padding: 2px; 
      float: right;
      color: white;
-     border-radius: 10px;
+     border-radius: 50px;
       } 
      /*#header {
       height: 10em;
