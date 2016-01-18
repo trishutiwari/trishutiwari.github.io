@@ -27,7 +27,9 @@
       <td>
        <div class="col">
         <h3><strong>Computer Science Projects</strong></h3>
-	<a href="https://github.com/trishutiwari/NewFreedomHouse">Android app that organizes college essays</a>
+	<ul>
+         <li><a href="https://github.com/trishutiwari/NewFreedomHouse">Android app that organizes college essays</a></li>
+	</ul>
        </div>
       </td>
      </tr>
