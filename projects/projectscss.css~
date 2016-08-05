@@ -15,7 +15,7 @@
      position:absolute;
      left:15%;
      top:0%;
-     background-image:url("icon.png");
+     background-image:url("bullet.png");
      background-size:cover;
     }
 
@@ -63,7 +63,18 @@ a:hover {
        }
 
 a:visited { 
-      color: rgb(153, 255, 153);
+      color:rgb(255, 204, 102);
       font-weight: bold;
        }
+
+.more {
+      background-image:url('arrow.png');
+      background-size:contain;
+      position:absolute;
+      border-radius:100%;
+      width:4%;
+      height:9%;
+      top:80%;
+      left:47%;
+}
 
