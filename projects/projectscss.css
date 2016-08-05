@@ -21,7 +21,7 @@
 
 .pro {
       position:absolute;
-      top:23%;      
+      top:15%;      
       left:25%;
       color:white;
       font-size:1.5em;
@@ -39,7 +39,7 @@ td   {
       width: 50%;
       text-align: center;
       position:relative;
-      padding:3%;
+      padding:4%;
      }
 
 th    {
@@ -74,7 +74,7 @@ a:visited {
       border-radius:100%;
       width:4%;
       height:8.5%;
-      top:80%;
+      top:88%;
       left:47%;
 }
 
