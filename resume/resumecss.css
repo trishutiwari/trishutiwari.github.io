@@ -17,12 +17,13 @@ html,body {
 }
 
 .skills {
- height:80%;
+ height:70%;
  width:30%;
  position:absolute;
  left:50%;
  top:25%;
  margin:1%;
+ overflow-y:scroll;
 }
 
 .outscale {
@@ -75,9 +76,6 @@ a:visited {
 .education > p {
  color:white;
  font-size:1.2em;
- overflow-y:scroll;
- overflow:auto;
- height:45%;
 }
 
 .education {
@@ -86,6 +84,8 @@ a:visited {
  left:10%;
  width:30%;
  height:80%;
+ overflow-y:scroll;
+ overflow:auto;
 }
 
 h1 {
@@ -159,7 +159,7 @@ button:hover {
     width: 12px;
 }
 ::-webkit-scrollbar-track {
-    background-color: rgba(0,0,0,0.4)
+    background-color: rgba(0,0,0,0.4);
 }
 
 ::-webkit-scrollbar-thumb {
