@@ -95,6 +95,8 @@ h1 {
  display:inline-block;
  width:128px;
  height:128px;
+ background-image:url('icon.png');
+ background-size:contain;
  text-align:center;
  font-family:monospace;
  font-size:1.2em;

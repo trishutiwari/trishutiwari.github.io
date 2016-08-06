@@ -38,7 +38,7 @@
 
    .contacts {
    position:absolute;
-   left:15%;
+   left:13%;
    top:60%;
    }
 

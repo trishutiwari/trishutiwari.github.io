@@ -95,6 +95,9 @@ h1 {
  display:inline-block;
  width:128px;
  height:128px;
+ background-image:url('icon.png');
+ background-size:contain;
+ color:black;
  text-align:center;
  font-family:monospace;
  font-size:1.2em;
@@ -106,7 +109,7 @@ h1 {
  position:absolute;
  display:block;
  width:50%;
- left:30%;
+ left:25%;
  top:10%;
 }
 

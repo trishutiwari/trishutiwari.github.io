@@ -73,11 +73,11 @@
    <div class='experience'>
     <h1 style='color:white;'>Experience</h1>
     <div>
-     <div class='circle' style='background-image:url(experienceBk.png);color:white;'>Fall 2015</div>
+     <div class='circle' style=color:white;'>Fall 2015</div>
      <p>Built an application to protect VMs in the Massachusets Open Cloud from malware<br>Skills used: Sensu, Python, Computer Networks</p>
     </div>
     <div>
-     <div class='circle' style='background-image:url(experienceBk2.png);color:black;'>Summer 2015</div>
+     <div class='circle' style='color:white;'>Summer 2015</div>
      <p>Integrated a framework that allowed real-time monitoring of power data from MGHPCC datacenter<br>Skills used: Python, Sensu, InfluxDB, Redis</p>
     </div>
    </div>
