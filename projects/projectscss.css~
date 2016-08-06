@@ -19,6 +19,10 @@
      background-size:cover;
     }
 
+.comp {
+     background-image:url("bullet1.png");
+}
+
 .pro {
       position:absolute;
       top:15%;      
@@ -31,31 +35,31 @@ h2 {
       color:white;      
       text-align:center;
       position:relative;
-      left:10%;
-      width:80%;
+      left:20%;
+      width:68%;
 }
 
-td   {
+ td   {
       width: 50%;
       text-align: center;
       position:relative;
       padding:4%;
      }
 
-th    {
+ th    {
       width: 50%;
       position:relative;
       padding:4%;
     }
 
-
 .contentTable {
       position:absolute;
       top:8%;
       left:8%;
+      width:80%;
 }
 
-.notActive {
+.nonActive {
       display:none;
 }
 
@@ -69,7 +73,7 @@ a:hover {
        }
 
 a:visited { 
-      color:rgb(255, 204, 102);
+      color:rgb(46, 46, 31);
       font-weight: bold;
        }
 

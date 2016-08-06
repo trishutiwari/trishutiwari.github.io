@@ -30,8 +30,9 @@
 
   </head>
   <body>
+  <div class='mask'>
   <div class='contentdiv'>
-   <table class="contentTable p1">
+   <table class="contentTable p1 active">
     <thead>
      <tr>
       <th><h2><strong>Humanities and Social Science essays</strong></h2></th>
@@ -79,19 +80,19 @@
      <tbody>
      <tr>
       <td>
-        <div class='icon'></div>
-        <p class='pro'><a href="https://github.com/trishutiwari/MOCdata">Integrating a framework for real time monitoring of power data from MGHPCC datacenter</a></p>
+        <div class='icon comp'></div>
+        <p class='pro'><a href="https://github.com/trishutiwari/MOCdata">Framework for Real time monitoring of power data from MGHPCC datacenter</a></p>
       </td>
      </tr>
      <tr>
       <td>
-       <div class='icon'></div>
+       <div class='icon comp'></div>
        <p class='pro'><a href="https://github.com/trishutiwari/PythonFinalProject">Virtual piano (Python)</a></p>
       </td>
      </tr>
      <tr>
       <td>
-       <div class='icon'></div>
+       <div class='icon comp'></div>
        <p class='pro'><a href="https://github.com/trishutiwari/trishutiwari.github.io">This website!</a></p>
       </td>
      </tr>
@@ -99,6 +100,7 @@
    </table>
    <div class='next arrow'></div>
    <div class='prev arrow'></div>   
+   </div>
    </div>
    <nav class="navbar navbar-inverse navbar-fixed-top">
      <div class="container">
