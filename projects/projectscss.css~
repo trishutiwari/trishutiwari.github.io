@@ -75,7 +75,7 @@ a:hover {
        }
 
 a:visited { 
-      color:rgb(204, 0, 153);
+      color:rgb(255, 128, 255);
       font-weight: bold;
        }
 
