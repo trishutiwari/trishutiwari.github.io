@@ -1,13 +1,14 @@
 .heading {
-    font-family: Times, serif;
     text-align: center;
     font-weight: bold;
-    color: black;
+    color: beige;
     font-size: 2em;
     display: block;
    }
    body {
     padding-top: 5%;
+    background-image:url("bk.jpg");
+    background-size:cover;
    }
    a:hover {
     text-weight: bold;
@@ -19,15 +20,13 @@
     color: purple;
    }
    #content {
-    background-color: white;
+    background-color:rgba(0,0,0,0.4);
     text-align: center;
     margin-left: 8%;
     margin-right: 8%;
-    border-left: 10px solid #222;
-    border-right: 10px solid #222;
     padding-left: 2%;
     padding-right: 2%;
     display: block; 
-    font-family: times, serif;
+    color:beige;
     font-size: 1.25em;
    }
