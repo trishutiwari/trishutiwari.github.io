@@ -79,7 +79,7 @@
     </div>
     <div>
      <div class='circle'>Summer 2015</div>
-     <p>Integrated a <a href="">framework</a> that allowed real-time monitoring of power data from MGHPCC datacenter<br>Skills used: Python, Sensu, InfluxDB, Redis</p>
+     <p>Integrated a <a href="https://github.com/trishutiwari/MOCdata">framework</a> that allowed real-time monitoring of power data from MGHPCC datacenter<br>Skills used: Python, Sensu, InfluxDB, Redis</p>
     </div>
    </div>
    </div>
