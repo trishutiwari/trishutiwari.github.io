@@ -174,6 +174,7 @@ button:hover {
 .scroll {
  position:absolute;
  background-color:rgba(0,0,0,0.4);
+ border-radius:1em;
  color:white;
  font-size:2em;
  width:8%;
@@ -182,3 +183,16 @@ button:hover {
  text-align:center;
  font-family:monospace;
 }
+
+a:link {
+      text-decoration: none;
+      color: purple;
+       }     
+
+a:hover {
+      font-weight: bold;
+       }
+
+a:visited { 
+      font-weight: bold;
+
