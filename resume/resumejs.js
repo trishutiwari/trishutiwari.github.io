@@ -15,21 +15,21 @@ var checkHeight = function () {
  }
 
 var main = function () {
- addbars(['Python','HTML','CSS','Javascsript','JQuery','PHP','Java','SQL','InfluxQL','Redis'],[0.75,1,0.8,0.5,0.75,0.25,0.40,0.25,0.75,0.65]);
+ addbars(['Python','Java','C/C++','HTML','CSS','Javascsript/JQuery'],[0.85,0.65,0.85,1,0.8,0.5]);
  checkHeight();
  $(".sub").click(function () {
    var text = $(this).text();
    if (text === 'Web') {
-    addbars(['HTML','CSS','Javascsript','JQuery','PHP'],[1,0.8,0.5,0.75,0.25]);
+    addbars(['HTML','CSS','Javascsript/JQuery','Django'],[1,0.8,0.5,0.25]);
    }
    else if (text === 'Languages') {
-    addbars(['Python','Java'],[0.75,0.40]);
+    addbars(['Python','Java','C/C++'],[0.85,0.65,0.85]);
    }
-   else if (text === 'Databases') {
-   addbars(['SQL','InfluxQL','Redis'],[0.25,0.75,0.65]);
+   else if (text === 'Cyber Sec') {
+   	addbars(['Web','Reverse Eng','Networks'],[0.50,0.25,0.75]);
    }
    else {
-   addbars(['Python','HTML','CSS','Javascsript','JQuery','PHP','Java','SQL','InfluxQL','Redis'],[0.75,1,0.8,0.5,0.75,0.25,0.40,0.25,0.75,0.65]);
+	addbars(['Python','Java','C/C++','HTML','CSS','Javascsript/JQuery'],[0.85,0.65,0.85,1,0.8,0.5]);
    }
   checkHeight();
   });
