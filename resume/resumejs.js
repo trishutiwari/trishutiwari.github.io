@@ -23,10 +23,10 @@ var main = function () {
     addbars(['HTML','CSS','Javascsript/JQuery','Django'],[1,0.8,0.5,0.25]);
    }
    else if (text === 'Languages') {
-    addbars(['Python','Java','C/C++'],[0.85,0.65,0.85]);
+    addbars(['Python','Java','C/C++','HTML','CSS','Javascsript/JQuery'],[0.85,0.65,0.85,1,0.8,0.5]);
    }
    else if (text === 'Cyber Sec') {
-   	addbars(['Web','Reverse Eng','Networks'],[0.65,0.25,0.75]);
+   	addbars(['Web','Reversing','Networks'],[0.65,0.25,0.75]);
    }
    else {
 	addbars(['Android Dev','InfluxDB','Algorithms','OS'],[0.65,0.75,0.75,0.25]);

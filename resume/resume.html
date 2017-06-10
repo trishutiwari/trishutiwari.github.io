@@ -22,11 +22,13 @@
   <!--making bootstrap mobile friendly-->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!--loading css-->
-  <link rel="stylesheet" type="text/css" href="resumecss.css"/>
-
   <!--loading Javascript files-->
   <script src="resumejs.js"></script>
+
+  <!--loading css-->
+  <link rel="stylesheet" type="text/css" media="screen and (min-width:700px)" href="resumecss.css"/>
+  <link rel="stylesheet" type="text/css" media="screen and (max-width:700px)" href="m_resumecss.css"/>
+
   </head>
   <body>
    <div class=bk0>
@@ -96,10 +98,10 @@
        </div>
        <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="../index.html">Home</a></li>
+          <li><a href="../index.html">Home</a></li>
           <li><a href="../about/about.html">About</a></li>
           <li><a href="../projects/projects.html">Projects</a></li>
-	  <li><a href="resume/resume.html">Resume</a></li>
+	      <li class="active"><a href="resume/resume.html">Resume</a></li>
         </ul>
        </div>
       </div>
