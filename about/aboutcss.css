@@ -8,7 +8,7 @@
    p {
     font-size: 1.125em;
     position:absolute;
-    top:17%;
+    top:40%;
     left:50%;
     width:40%;
    }
@@ -38,13 +38,16 @@
 
    .contacts {
    position:absolute;
-   left:13%;
-   top:60%;
+   left:6%;
+   top:50%;
+   width:45%;
    }
 
    button {
    height:3em;
-   width:15em;
+   width:12em;
    display:block;
-   margin:8%;
+   margin-left:2%;
+   margin-right:2%;
+   margin-top:3%;
    }
