@@ -1,0 +1,2 @@
+ErrorDocument 500 /50x/error50x.html
+ErrorDocument 404 /404/error404.html

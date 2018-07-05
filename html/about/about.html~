@@ -1,0 +1,62 @@
+<!DOCTYPE html> 
+<html>
+ <head>
+  <title>About Trishtia</title>
+  <title>Resume</title>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" type="text/css">
+   <!--IE compatibility-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+ 
+  <!--loading jquery-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+
+  <!-- Latest compiled and minified CSS -->
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+  <!--making bootstrap mobile friendly-->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!--loading css-->
+  <link rel="stylesheet" type="text/css" href="aboutcss.css"/>
+ </head>
+ <body>
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+   <div class="container">
+    <div class="navbar-header">
+     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+     </button>
+     <a class="navbar-brand" href="../index.html">Trishita</a>
+    </div>
+    <div id="navbar" class="collapse navbar-collapse">
+     <ul class="nav navbar-nav">
+      <li class="active"><a href="../index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="../projects/projects.html">Projects</a></li>
+      <li><a href="../resume/resume.html">Resume</a></li>
+     </ul>
+    </div>
+   </div>
+  </nav>
+  <div class="content">
+   <h1><strong>A bit about me...</strong></h1>
+   <div class='contacts'>
+    <button onclick="location.replace('https://www.facebook.com/TrishitaTiwari')" class="btn btn-primary">Facebook</button>
+    <a href='mailto:trtiwari@bu.edu'><button type="button" class="btn btn-warning">Email</button></a>
+   </div>
+<p>I am a dynamic, hardworking and inquisitive person, and my achievements only reinforce my proficiency. Academic distinction is the underpinning of my success; I have always been in the top 1% in my class. I graduated as the valedictorian of the American School of Paris, and secured 41/42 subject points in the IB. Further, I have maintained a cumulative GPA of 4.0 during my time at Boston University, managing the Kilachand honors program with a challenging engineering curriculum. 
+	Academic inclination is but a single facet of my multi-dimensional personality. I have also excelled in numerous extra-curricular activities, ranging from debate and art, to programming. Equipped with strong oratory skills, I twice won 2nd position in city level debate competitions amongst hundreds of participants. My interest in ecology and debating abilities provided me a chance to engage, through panel discussions, with Jane Goodall and Michael Pollan. I also possess strong written communication skills, having written many well regarded <a href="../projects/projects.html">essays and critiques</a>. As a highschool student, I also excelled in painting and won numerous positions in various competitions. Furthermore, my exuberance is reflected in my effort to self-learn web development, Python, Java and SQL, all in a span of less than a year. Over the past year, I have also realized that my interests lie in cybersecurity, for which I have begun training already.
+I believe these qualities prompted Boston University to select me as a Trustee Scholar, a merit scholarship awarded to around 20 students from thousands of applicants. And I strongly believe that these attributes will also allow me to succeed at my career. 
+   </p>
+  </div> 
+ </body>
+</html>

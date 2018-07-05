@@ -1,0 +1,56 @@
+   h1 {
+    position:absolute;
+    top:5%;
+    left:7%;
+    font-size:3em;
+    width:86%;
+   }
+   p {
+    font-size: 1.125em;
+    position:absolute;
+    top:17%;
+    left:5%;
+    width:90%;
+   }
+
+   a:hover {
+    color:orange;
+   }
+   a:link {
+    text-decoration: none;
+   }
+   a:visited { 
+    color: purple;
+   }
+   .content {
+    position:absolute;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height:250%;
+    color: white;
+   }
+
+   body {
+    background-image:url('bk.jpg');
+    background-size:cover;
+   }
+
+   .contacts {
+    position:absolute;
+    left:3%;
+    bottom:0%;
+    padding-bottom:5%;
+   }
+
+   button {
+    height:3em;
+    width:15em;
+    display:block;
+    margin:8%;
+   }
+   
+   .navbar-toggle
+   {
+    width:12%;
+   }

@@ -1,0 +1,50 @@
+   h1 {
+    position:absolute;
+    top:20%;
+    left:10%;
+    font-size:6em;
+    width:40%;
+   }
+   p {
+    font-size: 1.125em;
+    position:absolute;
+    top:17%;
+    left:50%;
+    width:40%;
+   }
+
+   a:hover {
+    font-weight: bold;
+   }
+   a:link {
+    text-decoration: none;
+   }
+   a:visited { 
+    color: purple;
+   }
+   .content {
+    position:absolute;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height:100%;
+    color: white;
+   }
+
+   body {
+    background-image:url('bk.jpg');
+    background-size:cover;
+   }
+
+   .contacts {
+   position:absolute;
+   left:13%;
+   top:60%;
+   }
+
+   button {
+   height:3em;
+   width:15em;
+   display:block;
+   margin:8%;
+   }
