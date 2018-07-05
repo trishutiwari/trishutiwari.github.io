@@ -16,7 +16,7 @@ var addbars = function (skills, proficiency) {
 
 var main = function () {
  addbars(['Computer Networks (Prof. Matta)','Cyber Security (Prof. Egele)','IoT Security (Prof. Starobinski)','Android Side Channels (Prof. Trachtenberg)','Microprocessors (Prof. Montazam)','Computer Organization (Prof. Herbordt)'],[0.75,0.7,0.75,1,0.8,0.9]);
- checkHeight();
+ // checkHeight();
  $(".sub").click(function () {
    var text = $(this).text();
    if (text === 'Senior') {
