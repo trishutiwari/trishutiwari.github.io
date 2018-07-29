@@ -36,6 +36,10 @@ var main = function () {
    }
   // checkHeight();
   });
+
+ $(".res").click(function () {
+  window.location = "http://trishita.ddns.net/resume/resume.docx";
+ });
 }
 
 $(document).ready(main);
